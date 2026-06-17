@@ -1,0 +1,6 @@
+{
+  "name": "Sajadah",
+  "description": "Aplikasi pengingat waktu sholat adaptif lokasi, pencatatan absensi ibadah harian, kompas kiblat real-time, dan hadits pilihan harian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
